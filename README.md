@@ -24,24 +24,17 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.112.4                  api.github.com
-34.237.75.149                 avatars5.githubusercontent.com
-44.200.101.139                avatars4.githubusercontent.com
-54.167.245.79                 avatars3.githubusercontent.com
-3.237.44.11                   avatars2.githubusercontent.com
-34.228.218.107                avatars1.githubusercontent.com
-3.236.171.218                 avatars0.githubusercontent.com
-3.237.12.81                   avatars.githubusercontent.com
+140.82.114.4                  alive.github.com
 
 
-# Update time: 2022-11-18T09:20:01+08:00
+# Update time: 2022-11-18T12:19:24+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-18T09:20:01+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-18T12:19:24+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
